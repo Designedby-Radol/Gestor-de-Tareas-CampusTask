@@ -1,0 +1,36 @@
+{
+    tablas{
+        'id':{
+            'tarjeta1':{
+                (contenido)
+            },
+            'tarjeta2':{
+                (contenido)
+            }
+        },
+        'id':{
+            'tarjeta1':{
+                (contenido)
+            },
+            'tarjeta2':{
+                (contenido)
+            }
+        },
+        'id':{
+            'tarjeta1':{
+                (contenido)
+            },
+            'tarjeta2':{
+                (contenido)
+            }
+        },
+        'id':{
+            'tarjeta1':{
+                (contenido)
+            },
+            'tarjeta2':{
+                (contenido)
+            }
+        }
+    }
+}
